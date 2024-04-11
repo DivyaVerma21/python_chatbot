@@ -1,2 +1,2 @@
 # python_chatbot
-a simple chatbot
+A simple chatbot thattalks about Python
